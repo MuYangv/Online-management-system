@@ -38,5 +38,5 @@ npm install
 # 或
 yarn install
 ## 预览图片
-![图片1](https://github.com/MuYangv/Online-management-system/raw/main/1.png)
-![图片2](https://github.com/MuYangv/Online-management-system/raw/main/2.png)
+![图片1](https://raw.githubusercontent.com/MuYangv/Online-management-system/main/1.png)
+![图片2](https://raw.githubusercontent.com/MuYangv/Online-management-system/main/2.png)
